@@ -7,14 +7,15 @@ Software Engineering student at 42 Lisboa. Former M&A at HSBC.
 ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=FFD43B&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=nunostreet&style=for-the-badge&color=000000)
 
 ---
 
 ## About Me
 
-Full-time student at 42 Lisboa, a project-based, peer-reviewed programme with no lectures. Before this, I spent 4 years in investment banking. This profile is a live record of that transition.
+Full-time student at 42 Lisboa, a project-based, peer-reviewed programme with no lectures. Before this, 4 years in investment banking.
 
-Interested in backend systems, algorithms, and AI engineering. I enjoy problems that require precise, structured thinking and working through them with others.
+I enjoy problems that require precise, structured thinking and working through them with others. This profile is a live record of that transition — feel free to follow along 😊
 
 ---
 
