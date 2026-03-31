@@ -13,9 +13,9 @@ Software Engineering student at 42 Lisboa. Former M&A at HSBC.
 
 ## About Me
 
-Full-time student at 42 Lisboa, a project-based, peer-reviewed programme with no lectures. Before this, 4 years in investment banking.
+Full-time student at 42 Lisboa, a project-based, peer-reviewed programme with no lectures. Before this, I spent 4 years in investment banking. This profile is a live record of that transition.
 
-I enjoy problems that require precise, structured thinking and working through them with others. This profile is a live record of that transition — feel free to follow along 😊
+I enjoy problems that require precise, structured thinking and working through them with others. For now, you can find below some of the projects I've done as part of the 42 curriculum.
 
 ---
 
