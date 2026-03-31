@@ -42,3 +42,4 @@ I enjoy problems that require precise, structured thinking and working through t
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nuno%20Street-black?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nunostreet/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-nstr--black?logo=leetcode&logoColor=FFD43B&style=for-the-badge)](https://leetcode.com/u/nstr-/)
