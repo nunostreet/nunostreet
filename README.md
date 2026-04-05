@@ -23,8 +23,6 @@ I enjoy problems that require precise, structured thinking and working through t
 
 **[Codexion](https://github.com/nunostreet/Codexion)** — A multithreaded simulation in C, adapted from the Philosophers problem. Threads compete for shared resources under timing constraints, with a focus on synchronisation, fairness, and avoiding deadlock.
 
-**[fly-in](https://github.com/nunostreet/fly-in)** — Movement simulation with rule-based, deterministic flight logic. Work in progress.
-
 ---
 
 ## Completed Projects
@@ -36,6 +34,7 @@ I enjoy problems that require precise, structured thinking and working through t
 | [**ft_printf**](https://github.com/nunostreet/ft_printf) | Reimplementation of `printf` with variadic argument handling and multiple conversion specifiers | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square) |
 | [**push_swap**](https://github.com/nunostreet/push_swap) | Sorts integers using two stacks and a constrained instruction set, optimising for minimum operation count | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square) |
 | [**a-maze-ing**](https://github.com/nunostreet/a-maze-ing) | Configurable maze generation and pathfinding simulation | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&style=flat-square) |
+| [**fly-in**](https://github.com/nunostreet/fly-in) | Movement simulation with rule-based, deterministic flight logic | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&style=flat-square) |
 
 ---
 
