@@ -21,7 +21,7 @@ I enjoy problems that require precise, structured thinking and working through t
 
 ## Currently Working On
 
-**[Codexion](https://github.com/nunostreet/Codexion)** — A multithreaded simulation in C, adapted from the Philosophers problem. Threads compete for shared resources under timing constraints, with a focus on synchronisation, fairness, and avoiding deadlock.
+**[Call Me Maybe](https://github.com/nunostreet/Call-Me-Maybe)** — Exploring LLM function calling via constrained decoding with Qwen3-0.6B. The goal is reliable tool-use from a small model without fine-tuning, by constraining token generation to match the expected schema.
 
 ---
 
@@ -29,12 +29,13 @@ I enjoy problems that require precise, structured thinking and working through t
 
 | Project | Description | |
 |---|---|---|
-| [**libft**](https://github.com/nunostreet/libft) | Custom C library reimplementing standard libc functions from scratch — the foundation for all subsequent 42 work | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square) |
-| [**get_next_line**](https://github.com/nunostreet/get_next_line) | Reads one line at a time from a file descriptor using static variables and buffer management | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square) |
-| [**ft_printf**](https://github.com/nunostreet/ft_printf) | Reimplementation of `printf` with variadic argument handling and multiple conversion specifiers | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square) |
-| [**push_swap**](https://github.com/nunostreet/push_swap) | Sorts integers using two stacks and a constrained instruction set, optimising for minimum operation count | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square) |
-| [**a-maze-ing**](https://github.com/nunostreet/a-maze-ing) | Configurable maze generation and pathfinding simulation | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&style=flat-square) |
-| [**fly-in**](https://github.com/nunostreet/fly-in) | Movement simulation with rule-based, deterministic flight logic | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&style=flat-square) |
+| [**libft**](https://github.com/nunostreet/libft) | Custom C library reimplementing standard libc functions — the foundation for all 42 work | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> |
+| [**get_next_line**](https://github.com/nunostreet/get_next_line) | Reads one line at a time from a file descriptor using static variables and buffers | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> |
+| [**ft_printf**](https://github.com/nunostreet/ft_printf) | Reimplementation of `printf` with variadic arguments and multiple conversion specifiers | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> |
+| [**push_swap**](https://github.com/nunostreet/push_swap) | Sorts integers using two stacks and a constrained instruction set, minimising operations | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> |
+| [**Codexion**](https://github.com/nunostreet/Codexion) | Multithreaded simulation in C adapted from Philosophers — synchronisation and deadlock avoidance | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> |
+| [**a-maze-ing**](https://github.com/nunostreet/a-maze-ing) | Configurable maze generation and pathfinding simulation with visualisation support | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> |
+| [**fly-in**](https://github.com/nunostreet/fly-in) | Movement simulation with rule-based, deterministic flight logic in a bounded space | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> |
 
 ---
 
