@@ -21,7 +21,7 @@ I enjoy problems that require precise, structured thinking and working through t
 
 ## Currently Working On
 
-**[Call Me Maybe](https://github.com/nunostreet/Call-Me-Maybe)** — Exploring LLM function calling via constrained decoding with Qwen3-0.6B. The goal is reliable tool-use from a small model without fine-tuning, by constraining token generation to match the expected schema.
+**[Call Me Maybe](https://github.com/nunostreet/CallMeMaybe)** — Exploring LLM function calling via constrained decoding with Qwen3-0.6B. The goal is reliable tool-use from a small model without fine-tuning, by constraining token generation to match the expected schema.
 
 ---
 
