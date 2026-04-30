@@ -1,5 +1,7 @@
 # Nuno Street
 Software Engineering student @ 42 Lisboa
+
+
 ![42 Lisboa](https://img.shields.io/badge/42-Lisboa-black?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-black?logo=c&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=FFD43B&style=for-the-badge)
