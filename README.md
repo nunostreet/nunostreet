@@ -17,7 +17,9 @@ I enjoy problems that require precise, structured thinking and working through t
 
 ---
 ## Currently Working On
-**[Call Me Maybe](https://github.com/nunostreet/CallMeMaybe)** — Exploring LLM function calling via constrained decoding with Qwen3-0.6B. The goal is reliable tool-use from a small model without fine-tuning, by constraining token generation to match the expected schema.
+**NetPractice** — Configuring small-scale simulated networks: IP addressing, subnet masks, routing tables and gateways across 10 progressively harder levels.
+
+**[RAG against the machine](https://github.com/nunostreet/rag-against-the-machine)** — Building a Retrieval-Augmented Generation system in Python to answer questions over the vLLM codebase, using BM25 retrieval and Qwen3-0.6B for generation.
 
 ---
 ## Completed Projects
@@ -30,9 +32,8 @@ I enjoy problems that require precise, structured thinking and working through t
 | [**codexion**](https://github.com/nunostreet/codexion) | Multithreaded simulation in C adapted from Philosophers — synchronisation and deadlock avoidance | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> |
 | [**a-maze-ing**](https://github.com/nunostreet/a-maze-ing) | Configurable maze generation and pathfinding simulation with visualisation support | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> |
 | [**fly-in**](https://github.com/nunostreet/fly-in) | Movement simulation with rule-based, deterministic flight logic in a bounded space | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> |
+| [**call-me-maybe**](https://github.com/nunostreet/CallMeMaybe) | LLM function calling via constrained decoding with Qwen3-0.6B — reliable tool-use from a small model without fine-tuning | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> |
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nunostreet&layout=compact&langs_count=4&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 ---
 ## Connect
