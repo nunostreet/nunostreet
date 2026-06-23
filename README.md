@@ -17,7 +17,6 @@ I enjoy problems that require precise, structured thinking and working through t
 
 ---
 ## Currently Working On
-**NetPractice** — Configuring small-scale simulated networks: IP addressing, subnet masks, routing tables and gateways across 10 progressively harder levels.
 
 **[RAG against the machine](https://github.com/nunostreet/rag-against-the-machine)** — Building a Retrieval-Augmented Generation system in Python to answer questions over the vLLM codebase, using BM25 retrieval and Qwen3-0.6B for generation.
 
